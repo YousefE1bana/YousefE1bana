@@ -1,219 +1,232 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
-  <img alt="Yousef Osama — Cybersecurity Engineering, Defensive Security and security-minded software" src="./assets/profile-hero-dark.svg" width="100%">
-</picture>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFzdTh1ZGZ1YTZ3c2pxdWduanpyd3BkbXBybjhwdmxtajRzZHhnYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2UDBcExoz3R08IRpWr/giphy.gif" width="310" alt="Animated intro">
 
 <br>
 
-I build systems that **observe, explain, protect and ship** — from network detection and Linux tooling to healthcare platforms, scientific graphics and Arabic-first web products.
+# YOUSEF OSAMA
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0A66C2?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://yousefe1bana.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef_Elbana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousefelbana)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-ELbanna-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ELbanna)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Cybersecurity+Engineering+Student;SOC+%2F+Defensive+Security;Security-minded+Software+Builder;Build+%E2%86%92+Break+%E2%86%92+Detect+%E2%86%92+Verify" alt="Typing intro">
+</a>
+
+<samp>
+I build security systems, tools and products where <b>evidence matters more than assumptions.</b>
+</samp>
+
+<br><br>
+
+<a href="https://yousefe1bana.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=firefoxbrowser&logoColor=22D3EE"></a>
+<a href="https://www.linkedin.com/in/yousefelbana"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA"></a>
+<a href="https://tryhackme.com/p/ELbanna"><img src="https://img.shields.io/badge/TRYHACKME-0B1220?style=for-the-badge&logo=tryhackme&logoColor=EF4444"></a>
+<img src="https://komarev.com/ghpvc/?username=YousefE1bana&style=for-the-badge&color=0B1220&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
----
+<img src="./assets/divider-cyber.svg" width="100%" alt="">
 
-## What I do
-
-I'm a Cybersecurity Engineering student focused on **SOC / defensive security** and secure software engineering. I use offensive training to understand the activity I want to detect, then turn that understanding into practical systems, labs and tools.
-
-- **Detect & investigate:** network telemetry, explainable detections, incident evidence, Splunk/SPL and Windows/Linux security workflows.
-- **Build securely:** authentication, authorization, auditability, privacy boundaries, safe defaults and reproducible verification.
-- **Engineer products:** TypeScript/React platforms, Rust/Linux tooling, Python security systems and C++/OpenGL graphics.
-- **Lead:** Product Owner, Team Lead and Architecture Lead for **SHIFAA**, my graduation project.
-
-## Project evidence
-
-Real screenshots and project artifacts — not mock project cards.
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/YousefE1bana/Net-Shield">
-<img src="https://raw.githubusercontent.com/YousefE1bana/Net-Shield/main/docs/assets/linux-acceptance/live-overview.png" alt="NetShield live network overview" width="100%">
-</a>
-<br><strong>NetShield</strong><br><sub>Live network visibility and NDR operations</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/YousefE1bana/solar-odyssey">
-<img src="https://github.com/YousefE1bana/solar-odyssey/releases/download/v1.1.0/main-menu.png" alt="Solar Odyssey rendered Earth main menu" width="100%">
-</a>
-<br><strong>Solar Odyssey</strong><br><sub>C++ / OpenGL scientific exploration sandbox</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://yousefe1bana.github.io/al-tayyibat/">
-<img src="https://raw.githubusercontent.com/YousefE1bana/al-tayyibat/main/docs/readme/hero.webp" alt="Al-Tayyibat Arabic food reference interface" width="100%">
-</a>
-<br><strong>Al-Tayyibat</strong><br><sub>Arabic-first RTL PWA · 385 food entries</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://yousefe1bana.github.io/my-portfolio/">
-<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/docs/images/three-experiences.webp" alt="Yousef portfolio dark light and after hours experiences" width="100%">
-</a>
-<br><strong>Portfolio</strong><br><sub>Dark · Light · After Hours</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/YousefE1bana/shifaa-project">
-<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/shifaa-architecture.webp" alt="SHIFAA proposed architecture diagram" width="100%">
-</a>
-<br><strong>SHIFAA</strong><br><sub>Graduation project · proposed architecture</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://yousefe1bana.github.io/my-portfolio/#projects">
-<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/projects/e-banking.webp" alt="NeuralGuard E-Banking Security System interface" width="100%">
-</a>
-<br><strong>NeuralGuard</strong><br><sub>1st Place · ECU Project Day</sub>
-</td>
-</tr>
-</table>
-
-> **MEC** is terminal-first by design; its full feature and release record is linked in the project workshop below.
-
-## Project workshop
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [NetShield](https://github.com/YousefE1bana/Net-Shield)
-**Network Detection & Response · Python / Linux**
-
-An explainable home-SOC NDR console that turns network activity into alerts, investigations, evidence and bounded manual response.
-
-**Highlights:** 25 versioned indicators · 33 offline scenarios · authenticated analyst console · SQLite evidence · optional nftables response with expiry, rollback and kernel readback.
-
-<code>Python</code> <code>Flask</code> <code>Scapy</code> <code>SQLite</code> <code>Linux</code> <code>nftables</code>
-
-</td>
-<td width="50%" valign="top">
-
-### [SHIFAA](https://github.com/YousefE1bana/shifaa-project)
-**Digital Health Platform · Graduation Project**
-
-An Egyptian digital-health platform connecting patients, clinics, pharmacies, hospitals and laboratories.
-
-**My role:** Product Owner · Team Lead · Architecture Lead. The workspace covers role applications, shared packages, services, specifications, Supabase/PostgreSQL migrations and security-focused verification.
-
-<code>TypeScript</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Architecture</code> <code>Security</code>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### NeuralGuard · E-Banking Security System
-**Application Security & Fraud Detection · University Project**
-
-A banking prototype combining transaction monitoring, application security and fraud-model evaluation across **24.4M transactions**. XGBoost reached the CV-reported **94.69% ROC-AUC** in dataset evaluation.
-
-**Result:** **1st Place — ECU Project Day**, December 30, 2025.
-
-<code>Python</code> <code>React</code> <code>XGBoost</code> <code>Kafka</code> <code>Spark</code> <code>JWT/OTP</code>
-
-[View project record →](https://yousefe1bana.github.io/my-portfolio/#projects)
-
-</td>
-<td width="50%" valign="top">
-
-### [Solar Odyssey](https://github.com/YousefE1bana/solar-odyssey)
-**Scientific Exploration Sandbox · C++ / OpenGL**
-
-A Windows solar-system sandbox with **31 celestial bodies**, free-flight exploration, scientific visual layers and photo mode.
-
-**Highlights:** OpenGL 4.5 · HDR/bloom · camera-relative rendering · CMake/Ninja · downloadable Windows release.
-
-<code>C++17</code> <code>OpenGL 4.5</code> <code>CMake</code> <code>Ninja</code>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [Al-Tayyibat](https://github.com/YousefE1bana/al-tayyibat)
-**Arabic-first Food Reference PWA**
-
-A right-to-left, installable reference app documenting a diet system across **385 food entries** with search, filters, ingredient checking, recipes, local favorites, shopping lists and offline behavior.
-
-<code>React 19</code> <code>TypeScript</code> <code>Vite</code> <code>PWA</code> <code>RTL</code>
-
-[Live app →](https://yousefe1bana.github.io/al-tayyibat/)
-
-</td>
-<td width="50%" valign="top">
-
-### [MEC — MSI EC Control Center](https://github.com/YousefE1bana/msi-ec-tui)
-**Safe Linux Hardware Tooling · Rust**
-
-A capability-aware terminal control center for supported MSI laptops through the Linux msi-ec kernel module.
-
-**Highlights:** seven-screen TUI · READY / READ-ONLY compatibility states · validated writes · readback verification · transactional profiles with rollback · Linux packages and checksums.
-
-<code>Rust</code> <code>Cargo</code> <code>Linux sysfs</code> <code>TOML</code>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-### [My Portfolio](https://github.com/YousefE1bana/my-portfolio)
-**Three experiences, one body of work**
-
-A design-forward cybersecurity portfolio with **Dark**, **Light** and **After Hours** experiences over one shared project/credentials source of truth.
-
-<code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Framer Motion</code>
-
-[Visit live portfolio →](https://yousefe1bana.github.io/my-portfolio/)
-
-</td>
-</tr>
-</table>
-
-## Security + engineering stack
-
-<p>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white">
+<p align="center">
+  <img src="./assets/system-core.svg" width="94%" alt="Yousef security and engineering operating modes">
 </p>
-
-**Security focus:** SOC operations · Network Detection & Response · Incident investigation · Digital forensics · Penetration testing fundamentals · Detection engineering · Secure architecture.
-
-## Selected achievements
-
-| Achievement | Evidence |
-|---|---|
-| **1st Place — HACKARENA-ECU Cyber Security Competition** | Team Dali Exploit · May 2026 |
-| **1st Place — ECU Project Day** | E-Banking Security System · Dec 30, 2025 |
-| **Honorable Mention — ICPC ECPC Qualifications** | July 2024 |
-| **Microsoft Student Clubs — Certificate of Contribution** | ECU HR Team · 2024–2025 |
-
-## Current direction
-
-I'm building toward defensive-security roles where I can combine **security analysis with engineering**: understand the signal, prove what happened, automate the boring parts, and keep the response safe and explainable.
 
 <div align="center">
 
-**Build it. Break assumptions. Verify the evidence. Improve it.**
+### `WHOAMI`
 
-[Portfolio](https://yousefe1bana.github.io/my-portfolio/) · [LinkedIn](https://www.linkedin.com/in/yousefelbana) · [TryHackMe](https://tryhackme.com/p/ELbanna)
+Cybersecurity Engineering student targeting **SOC / defensive-security roles**.  
+I use offensive training to understand attacker behavior, then turn that understanding into **detections, investigations, safer response paths and better software**.
+
+**Cairo, Egypt · Building across Security, Linux, Healthcare, Web & Graphics**
+
+</div>
+
+<img src="./assets/divider-cyber.svg" width="100%" alt="">
+
+<h2 align="center">PROJECT // FIELD WORK</h2>
+
+<p align="center"><samp>Seven implemented projects. Different domains. Same obsession with building things properly.</samp></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/YousefE1bana/Net-Shield">
+<img src="https://raw.githubusercontent.com/YousefE1bana/Net-Shield/main/docs/assets/linux-acceptance/live-overview.png" width="100%" alt="NetShield live network overview">
+</a>
+
+### 🔵 [NetShield](https://github.com/YousefE1bana/Net-Shield)
+**Network Detection & Response**
+
+Home-SOC NDR that turns network activity into explainable alerts, investigations, evidence and bounded manual response.
+
+<sub>`Python` · `Flask` · `Scapy` · `SQLite` · `Linux` · `nftables`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/YousefE1bana/shifaa-project">
+<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/shifaa-architecture.webp" width="100%" alt="SHIFAA proposed architecture">
+</a>
+
+### 🟢 [SHIFAA](https://github.com/YousefE1bana/shifaa-project)
+**Egyptian Digital Health Platform**
+
+Graduation project connecting patients, clinics, pharmacies, hospitals and laboratories.
+
+<sub>Product Owner · Team Lead · Architecture Lead</sub>
+
+<sub>`TypeScript` · `PostgreSQL` · `Supabase` · `Secure Architecture`</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://yousefe1bana.github.io/my-portfolio/#projects">
+<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/projects/e-banking.webp" width="100%" alt="NeuralGuard E-Banking Security System">
+</a>
+
+### 🟣 NeuralGuard
+**E-Banking Security System**
+
+University banking-security prototype combining application security, transaction monitoring and fraud-model evaluation.
+
+**🥇 1st Place — ECU Project Day**
+
+<sub>`Python` · `React` · `XGBoost` · `Kafka` · `Spark`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/YousefE1bana/solar-odyssey">
+<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/projects/solar-odyssey.webp" width="100%" alt="Solar Odyssey">
+</a>
+
+### 🌌 [Solar Odyssey](https://github.com/YousefE1bana/solar-odyssey)
+**Scientific Exploration Sandbox**
+
+31 celestial bodies, free-flight exploration, scientific layers, photo mode and a modern rendering pipeline.
+
+<sub>`C++17` · `OpenGL 4.5` · `CMake` · `Ninja`</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://yousefe1bana.github.io/al-tayyibat/">
+<img src="https://raw.githubusercontent.com/YousefE1bana/al-tayyibat/main/docs/readme/hero.webp" width="100%" alt="Al-Tayyibat Arabic food reference">
+</a>
+
+### 🟡 [Al-Tayyibat](https://github.com/YousefE1bana/al-tayyibat)
+**Arabic-first RTL PWA**
+
+Interactive food-reference system covering **385 food entries**, search, ingredient checking, recipes, local favorites and offline use.
+
+<sub>`React 19` · `TypeScript` · `Vite` · `PWA` · `RTL`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://yousefe1bana.github.io/my-portfolio/">
+<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/docs/images/after-hours-hero.webp" width="100%" alt="Yousef portfolio After Hours experience">
+</a>
+
+### 🩷 [Portfolio](https://github.com/YousefE1bana/my-portfolio)
+**Three dimensions, one person**
+
+A design-forward cybersecurity portfolio with professional Dark / Light experiences and a personal **After Hours** world.
+
+<sub>`React` · `TypeScript` · `Vite` · `Framer Motion`</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://github.com/YousefE1bana/msi-ec-tui">
+<img src="./assets/mec-terminal.svg" width="82%" alt="MEC MSI EC Control Center terminal project">
+</a>
+</p>
+
+<div align="center">
+
+### 🟠 [MEC — MSI EC Control Center](https://github.com/YousefE1bana/msi-ec-tui)
+
+Capability-aware Linux terminal control center for supported MSI laptops, with safe writes, hardware readback and transactional profiles.
+
+<sub>`Rust` · `Cargo` · `Linux sysfs` · `TOML`</sub>
+
+</div>
+
+<img src="./assets/divider-cyber.svg" width="100%" alt="">
+
+<h2 align="center">ARSENAL // TOOLS I ACTUALLY USE</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,ts,react,cpp,linux,docker,postgres,supabase,git,github,vite&perline=12" alt="Technology stack">
+</p>
+
+<div align="center">
+
+`SOC Operations` · `Detection Engineering` · `NDR` · `Incident Investigation` · `Digital Forensics`  
+`Penetration Testing` · `Secure Architecture` · `Windows Security` · `Linux Security`
+
+</div>
+
+<img src="./assets/divider-cyber.svg" width="100%" alt="">
+
+<h2 align="center">ACHIEVEMENTS // RECEIPTS</h2>
+
+<table>
+<tr>
+<td align="center" width="25%"><h3>🥇</h3><b>1st Place</b><br><sub>HACKARENA-ECU<br>Cyber Security Competition</sub></td>
+<td align="center" width="25%"><h3>🥇</h3><b>1st Place</b><br><sub>ECU Project Day<br>NeuralGuard</sub></td>
+<td align="center" width="25%"><h3>🏅</h3><b>Honorable Mention</b><br><sub>ICPC ECPC<br>Qualifications</sub></td>
+<td align="center" width="25%"><h3>⚡</h3><b>Contribution</b><br><sub>Microsoft Student Clubs<br>ECU</sub></td>
+</tr>
+</table>
+
+<img src="./assets/divider-cyber.svg" width="100%" alt="">
+
+<h2 align="center">TELEMETRY // GITHUB</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YousefE1bana&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Yousef GitHub stats">
+  <img width="49%" src="https://streak-stats.demolab.com?user=YousefE1bana&theme=tokyonight&hide_border=true" alt="Yousef GitHub streak">
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefE1bana&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YousefE1bana&theme=tokyonight&utcOffset=3" alt="Productive time">
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YousefE1bana&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="GitHub contribution activity graph">
+</p>
+
+<img src="./assets/divider-cyber.svg" width="100%" alt="">
+
+<div align="center">
+
+### `CURRENT MISSION`
+
+Build toward defensive-security work where I can **understand the signal, reconstruct what happened, automate the boring parts and keep response explainable**.
+
+<br>
+
+<samp>BUILD // BREAK // DETECT // INVESTIGATE // VERIFY // IMPROVE</samp>
+
+<br><br>
+
+<a href="https://yousefe1bana.github.io/my-portfolio/"><b>Portfolio</b></a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/yousefelbana"><b>LinkedIn</b></a>
+&nbsp;•&nbsp;
+<a href="https://tryhackme.com/p/ELbanna"><b>TryHackMe</b></a>
+&nbsp;•&nbsp;
+<a href="https://github.com/YousefE1bana?tab=repositories"><b>All Repositories</b></a>
 
 </div>
