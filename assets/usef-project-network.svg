@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430" role="img" aria-labelledby="t d">
+<title id="t">USEF Project Network</title><desc id="d">Seven project modules across security, healthcare, Linux, graphics, Arabic web, finance security and portfolio design.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#08111c"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#38bdf8" stroke-opacity=".04"/></pattern>
+<filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.ey{font:800 10px 'Segoe UI',Arial,sans-serif;letter-spacing:2.4px}.t{font:900 17px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}.s{font:600 10px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}.top{font:900 30px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}</style>
+</defs>
+<rect width="1100" height="430" rx="24" fill="url(#bg)"/><rect width="1100" height="430" rx="24" fill="url(#grid)"/>
+<text x="54" y="48" class="ey" fill="#67e8f9">PROJECT NETWORK // 07 ACTIVE MODULES</text><text x="54" y="82" class="top">Different domains. One engineering mindset.</text>
+<path d="M550 116V146M206 146H894M206 146V168M378 146V168M550 146V168M722 146V168M894 146V168M292 284V306M464 284V306M636 284V306" fill="none" stroke="#334155" stroke-width="1.6"/>
+<g transform="translate(64 168)"><rect width="284" height="116" rx="16" fill="#020817" stroke="#22d3ee"/><text x="18" y="31" class="ey" fill="#67e8f9">SECURITY</text><text x="18" y="61" class="t">NETSHIELD</text><text x="18" y="87" class="s">NDR · evidence · response</text><circle cx="254" cy="25" r="5" fill="#22c55e"/></g>
+<g transform="translate(368 168)"><rect width="284" height="116" rx="16" fill="#020817" stroke="#8b5cf6"/><text x="18" y="31" class="ey" fill="#c4b5fd">HEALTHCARE</text><text x="18" y="61" class="t">SHIFAA</text><text x="18" y="87" class="s">product · architecture · security</text><circle cx="254" cy="25" r="5" fill="#22c55e"/></g>
+<g transform="translate(672 168)"><rect width="284" height="116" rx="16" fill="#020817" stroke="#22c55e"/><text x="18" y="31" class="ey" fill="#86efac">LINUX</text><text x="18" y="61" class="t">MEC</text><text x="18" y="87" class="s">Rust · hardware · safety</text><circle cx="254" cy="25" r="5" fill="#22c55e"/></g>
+<g transform="translate(64 306)"><rect width="224" height="88" rx="14" fill="#020817" stroke="#3b82f6"/><text x="16" y="28" class="ey" fill="#93c5fd">GRAPHICS</text><text x="16" y="57" class="t">SOLAR ODYSSEY</text><text x="16" y="75" class="s">C++ · OpenGL</text></g>
+<g transform="translate(300 306)"><rect width="224" height="88" rx="14" fill="#020817" stroke="#f59e0b"/><text x="16" y="28" class="ey" fill="#fde68a">ARABIC WEB</text><text x="16" y="57" class="t">AL-TAYYIBAT</text><text x="16" y="75" class="s">React · RTL · PWA</text></g>
+<g transform="translate(536 306)"><rect width="224" height="88" rx="14" fill="#020817" stroke="#ec4899"/><text x="16" y="28" class="ey" fill="#f9a8d4">FINTECH SECURITY</text><text x="16" y="57" class="t">NEURALGUARD</text><text x="16" y="75" class="s">fraud · auth · ML</text></g>
+<g transform="translate(772 306)"><rect width="264" height="88" rx="14" fill="#020817" stroke="#14b8a6"/><text x="16" y="28" class="ey" fill="#5eead4">IDENTITY</text><text x="16" y="57" class="t">PORTFOLIO</text><text x="16" y="75" class="s">Dark · Light · After Hours</text></g>
+<circle cx="550" cy="116" r="7" fill="#22d3ee" filter="url(#g)"><animate attributeName="r" values="6;9;6" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
