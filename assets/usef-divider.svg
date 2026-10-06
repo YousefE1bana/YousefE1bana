@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="58" viewBox="0 0 1200 58" role="img" aria-label="USEF system divider">
+<defs>
+  <linearGradient id="flow" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".22" stop-color="#22d3ee"/><stop offset=".52" stop-color="#8b5cf6"/><stop offset=".78" stop-color="#22c55e"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-100 0;100 0;-100 0" dur="12s" repeatCount="indefinite"/>
+  </linearGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<path d="M18 29H430L466 14H542L565 29H635L658 14H734L770 29H1182" fill="none" stroke="#1e293b" stroke-width="5" opacity=".9"/>
+<path d="M18 29H430L466 14H542L565 29H635L658 14H734L770 29H1182" fill="none" stroke="url(#flow)" stroke-width="2" filter="url(#g)" stroke-dasharray="170 80">
+  <animate attributeName="stroke-dashoffset" from="0" to="-250" dur="9s" repeatCount="indefinite"/>
+</path>
+<rect x="560" y="21" width="80" height="16" rx="8" fill="#07111f" stroke="#334155"/>
+<circle cx="584" cy="29" r="4" fill="#22d3ee"/><circle cx="600" cy="29" r="4" fill="#8b5cf6"/><circle cx="616" cy="29" r="4" fill="#22c55e"/>
+</svg>

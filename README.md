@@ -1,206 +1,187 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFzdTh1ZGZ1YTZ3c2pxdWduanpyd3BkbXBybjhwdmxtajRzZHhnYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2UDBcExoz3R08IRpWr/giphy.gif" width="310" alt="Animated intro">
-
-<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFzdTh1ZGZ1YTZ3c2pxdWduanpyd3BkbXBybjhwdmxtajRzZHhnYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2UDBcExoz3R08IRpWr/giphy.gif" width="290" alt="Animated intro">
 
 # YOUSEF OSAMA
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Cybersecurity+Engineering+Student;SOC+%2F+Defensive+Security;Security-minded+Software+Builder;Build+%E2%86%92+Break+%E2%86%92+Detect+%E2%86%92+Verify" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=42&lines=Cybersecurity+Engineering+Student;SOC+%2F+Defensive+Security;Security-minded+Software+Builder;Build+%E2%86%92+Break+%E2%86%92+Detect+%E2%86%92+Verify" alt="Typing intro">
 </a>
 
-<p align="center"><samp>I build security systems, tools and products where <b>evidence matters more than assumptions.</b></samp></p>
+<samp>Security is the lens. Engineering is the tool. Evidence decides what is true.</samp>
 
 <br><br>
 
-<a href="https://yousefe1bana.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=firefoxbrowser&logoColor=22D3EE"></a>
-<a href="https://www.linkedin.com/in/yousefelbana"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA"></a>
-<a href="https://tryhackme.com/p/ELbanna"><img src="https://img.shields.io/badge/TRYHACKME-0B1220?style=for-the-badge&logo=tryhackme&logoColor=EF4444"></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YousefE1bana.YousefE1bana&left_text=PROFILE%20VIEWS&left_color=0B1220&right_color=0E7490" alt="Profile views">
+<a href="https://yousefe1bana.github.io/my-portfolio/"><img src="https://img.shields.io/badge/portfolio-live-0B1220?style=flat-square&logo=firefoxbrowser&logoColor=22D3EE"></a>
+<a href="https://www.linkedin.com/in/yousefelbana"><img src="https://img.shields.io/badge/linkedin-yousefelbana-0B1220?style=flat-square&logo=linkedin&logoColor=60A5FA"></a>
+<a href="https://tryhackme.com/p/ELbanna"><img src="https://img.shields.io/badge/tryhackme-ELbanna-0B1220?style=flat-square&logo=tryhackme&logoColor=EF4444"></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=YousefE1bana.YousefE1bana&left_text=views&left_color=0B1220&right_color=0E7490" alt="Profile views">
+
+<br><br>
+
+<img src="./assets/usef-control-surface.svg" width="94%" alt="USEF control surface">
+
+<a href="https://yousefe1bana.github.io/my-portfolio/"><b>Portfolio</b></a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#project-network"><b>Projects</b></a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#open-channel"><b>Connect</b></a>
 
 </div>
 
-<img src="./assets/divider-cyber.svg" width="100%" alt="">
+<img src="./assets/usef-divider.svg" width="100%" alt="">
 
-<h2 align="center">PROJECT // FIELD WORK</h2>
+<h2 align="center">SYSTEM ACCESS</h2>
+<p align="center"><samp>Three primary systems that best represent how I work.</samp></p>
 
-<p align="center"><samp>Seven implemented projects. Different domains. Same obsession with building things properly.</samp></p>
+<p align="center">
+  <img src="./assets/usef-system-access.svg" width="96%" alt="USEF primary systems: NetShield, SHIFAA and MEC">
+</p>
+
+<p align="center">
+  <a href="https://github.com/YousefE1bana/Net-Shield"><b>NETSHIELD</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/YousefE1bana/shifaa-project"><b>SHIFAA</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/YousefE1bana/msi-ec-tui"><b>MEC</b></a>
+</p>
+
+<img src="./assets/usef-divider.svg" width="100%" alt="">
+
+<h2 align="center">SYSTEM CORE</h2>
+
+<p align="center">
+  <img src="./assets/usef-system-core.svg" width="96%" alt="USEF system core: defensive security, engineering and offensive knowledge">
+</p>
+
+<img src="./assets/usef-divider.svg" width="100%" alt="">
+
+<a id="project-network"></a>
+<h2 align="center">PROJECT NETWORK</h2>
+<p align="center"><samp>Seven implemented projects across security, healthcare, Linux, graphics and web.</samp></p>
+
+<p align="center">
+  <img src="./assets/usef-project-network.svg" width="94%" alt="USEF project network with seven active modules">
+</p>
+
+<h3 align="center">FIELD EVIDENCE</h3>
+<p align="center"><sub>Real screenshots and project artifacts from the published work.</sub></p>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
+<td width="50%" valign="top" align="center">
 <a href="https://github.com/YousefE1bana/Net-Shield">
 <img src="https://raw.githubusercontent.com/YousefE1bana/Net-Shield/main/docs/assets/linux-acceptance/live-overview.png" width="100%" alt="NetShield live network overview">
 </a>
-
-### [NetShield](https://github.com/YousefE1bana/Net-Shield)
-**Network Detection & Response**
-
-Home-SOC NDR that turns network activity into explainable alerts, investigations, evidence and bounded manual response.
-
-<sub>`Python` · `Flask` · `Scapy` · `SQLite` · `Linux` · `nftables`</sub>
-
+<br><b>NetShield</b><br>
+<sub>Network Detection & Response · Python / Linux</sub>
 </td>
-<td width="50%" valign="top">
-
+<td width="50%" valign="top" align="center">
 <a href="https://github.com/YousefE1bana/shifaa-project">
 <img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/shifaa-architecture.webp" width="100%" alt="SHIFAA proposed architecture">
 </a>
-
-### [SHIFAA](https://github.com/YousefE1bana/shifaa-project)
-**Egyptian Digital Health Platform**
-
-Graduation project connecting patients, clinics, pharmacies, hospitals and laboratories.
-
-<sub>Product Owner · Team Lead · Architecture Lead</sub>
-
-<sub>`TypeScript` · `PostgreSQL` · `Supabase` · `Secure Architecture`</sub>
-
+<br><b>SHIFAA</b><br>
+<sub>Egyptian digital health · Product / Architecture / Security</sub>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-<a href="https://yousefe1bana.github.io/my-portfolio/#projects">
-<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/projects/e-banking.webp" width="100%" alt="NeuralGuard E-Banking Security System">
-</a>
-
-### NeuralGuard
-**E-Banking Security System**
-
-University banking-security prototype combining application security, transaction monitoring and fraud-model evaluation.
-
-**1st Place — ECU Project Day**
-
-<sub>`Python` · `React` · `XGBoost` · `Kafka` · `Spark`</sub>
-
-</td>
-<td width="50%" valign="top">
-
+<td width="50%" valign="top" align="center">
 <a href="https://github.com/YousefE1bana/solar-odyssey">
 <img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/projects/solar-odyssey.webp" width="100%" alt="Solar Odyssey">
 </a>
-
-### [Solar Odyssey](https://github.com/YousefE1bana/solar-odyssey)
-**Scientific Exploration Sandbox**
-
-31 celestial bodies, free-flight exploration, scientific layers, photo mode and a modern rendering pipeline.
-
-<sub>`C++17` · `OpenGL 4.5` · `CMake` · `Ninja`</sub>
-
+<br><b>Solar Odyssey</b><br>
+<sub>C++17 / OpenGL 4.5 scientific exploration sandbox</sub>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://yousefe1bana.github.io/al-tayyibat/">
+<img src="https://raw.githubusercontent.com/YousefE1bana/al-tayyibat/main/docs/readme/hero.webp" width="100%" alt="Al-Tayyibat Arabic food reference">
+</a>
+<br><b>Al-Tayyibat</b><br>
+<sub>Arabic-first RTL PWA · 385 food entries</sub>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-<a href="https://yousefe1bana.github.io/al-tayyibat/">
-<img src="https://raw.githubusercontent.com/YousefE1bana/al-tayyibat/main/docs/readme/hero.webp" width="100%" alt="Al-Tayyibat Arabic food reference">
+<td width="50%" valign="top" align="center">
+<a href="https://yousefe1bana.github.io/my-portfolio/#projects">
+<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/projects/e-banking.webp" width="100%" alt="NeuralGuard E-Banking Security System">
 </a>
-
-### [Al-Tayyibat](https://github.com/YousefE1bana/al-tayyibat)
-**Arabic-first RTL PWA**
-
-Interactive food-reference system covering **385 food entries**, search, ingredient checking, recipes, local favorites and offline use.
-
-<sub>`React 19` · `TypeScript` · `Vite` · `PWA` · `RTL`</sub>
-
+<br><b>NeuralGuard</b><br>
+<sub>Application security & fraud detection · 1st Place ECU Project Day</sub>
 </td>
-<td width="50%" valign="top">
-
-<a href="https://yousefe1bana.github.io/my-portfolio/">
-<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/docs/images/after-hours-hero.webp" width="100%" alt="Yousef portfolio After Hours experience">
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/YousefE1bana/msi-ec-tui">
+<img src="./assets/mec-terminal.svg" width="100%" alt="MEC MSI EC Control Center terminal interface">
 </a>
+<br><b>MEC — MSI EC Control Center</b><br>
+<sub>Rust · Linux sysfs · verified writes · rollback</sub>
+</td>
+</tr>
 
-### [Portfolio](https://github.com/YousefE1bana/my-portfolio)
-**Three dimensions, one person**
-
-A design-forward cybersecurity portfolio with professional Dark / Light experiences and a personal **After Hours** world.
-
-<sub>`React` · `TypeScript` · `Vite` · `Framer Motion`</sub>
-
+<tr>
+<td colspan="2" valign="top" align="center">
+<a href="https://yousefe1bana.github.io/my-portfolio/">
+<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/docs/images/after-hours-hero.webp" width="76%" alt="Yousef portfolio After Hours experience">
+</a>
+<br><b>Portfolio</b><br>
+<sub>Dark · Light · After Hours</sub>
 </td>
 </tr>
 </table>
 
-<p align="center">
-<a href="https://github.com/YousefE1bana/msi-ec-tui">
-<img src="./assets/mec-terminal.svg" width="82%" alt="MEC MSI EC Control Center terminal project">
-</a>
-</p>
+<img src="./assets/usef-divider.svg" width="100%" alt="">
 
-<div align="center">
-
-### [MEC — MSI EC Control Center](https://github.com/YousefE1bana/msi-ec-tui)
-
-Capability-aware Linux terminal control center for supported MSI laptops, with safe writes, hardware readback and transactional profiles.
-
-<sub>`Rust` · `Cargo` · `Linux sysfs` · `TOML`</sub>
-
-</div>
-
-<img src="./assets/divider-cyber.svg" width="100%" alt="">
-
-<h2 align="center">ARSENAL // TOOLS I ACTUALLY USE</h2>
+<h2 align="center">ARSENAL</h2>
+<p align="center"><samp>Languages and platforms I actually use in the work above.</samp></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,ts,react,cpp,linux,docker,postgres,supabase,git,github,vite&perline=12" alt="Technology stack">
 </p>
 
-<div align="center">
+<p align="center">
+<code>SOC Operations</code> · <code>Detection Engineering</code> · <code>NDR</code> · <code>Incident Investigation</code><br>
+<code>Digital Forensics</code> · <code>Penetration Testing</code> · <code>Secure Architecture</code> · <code>Windows / Linux Security</code>
+</p>
 
-`SOC Operations` · `Detection Engineering` · `NDR` · `Incident Investigation`  
-`Digital Forensics` · `Penetration Testing` · `Secure Architecture` · `Windows / Linux Security`
+<img src="./assets/usef-divider.svg" width="100%" alt="">
 
-</div>
+<h2 align="center">ACHIEVEMENT LOG</h2>
 
-<img src="./assets/divider-cyber.svg" width="100%" alt="">
+<p align="center">
+  <img src="./assets/usef-achievements.svg" width="94%" alt="Yousef achievements">
+</p>
 
-<h2 align="center">ACHIEVEMENTS // RECEIPTS</h2>
+<img src="./assets/usef-divider.svg" width="100%" alt="">
 
-<table>
-<tr>
-<td align="center" width="25%"><samp>01</samp><br><b>1st Place</b><br><sub>HACKARENA-ECU<br>Cyber Security Competition</sub></td>
-<td align="center" width="25%"><samp>02</samp><br><b>1st Place</b><br><sub>ECU Project Day<br>NeuralGuard</sub></td>
-<td align="center" width="25%"><samp>03</samp><br><b>Honorable Mention</b><br><sub>ICPC ECPC<br>Qualifications</sub></td>
-<td align="center" width="25%"><samp>04</samp><br><b>Contribution</b><br><sub>Microsoft Student Clubs<br>ECU</sub></td>
-</tr>
-</table>
-
-<img src="./assets/divider-cyber.svg" width="100%" alt="">
-
-<h2 align="center">TELEMETRY // GITHUB</h2>
+<h2 align="center">TELEMETRY</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YousefE1bana&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Yousef GitHub stats">
   <img width="49%" src="https://streak-stats.demolab.com?user=YousefE1bana&theme=tokyonight&hide_border=true" alt="Yousef GitHub streak">
 </p>
 
-<p align="center"><sub>GitHub already shows the native contribution graph below the profile, so I keep this section compact instead of duplicating it with an unreliable external graph.</sub></p>
+<p align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YousefE1bana&theme=tokyonight" alt="Yousef GitHub profile contribution summary">
+</p>
 
-<img src="./assets/divider-cyber.svg" width="100%" alt="">
+<img src="./assets/usef-divider.svg" width="100%" alt="">
 
-<div align="center">
+<a id="open-channel"></a>
+<h2 align="center">OPEN CHANNEL</h2>
 
-### `CURRENT MISSION`
+<p align="center">
+  <img src="./assets/usef-contact.svg" width="94%" alt="USEF contact console">
+</p>
 
-Build toward defensive-security work where I can **understand the signal, reconstruct what happened, automate the boring parts and keep response explainable**.
-
-<br>
-
-<samp>BUILD // BREAK // DETECT // INVESTIGATE // VERIFY // IMPROVE</samp>
-
-<br><br>
-
+<p align="center">
 <a href="https://yousefe1bana.github.io/my-portfolio/"><b>Portfolio</b></a>
-&nbsp;•&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yousefelbana"><b>LinkedIn</b></a>
-&nbsp;•&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://tryhackme.com/p/ELbanna"><b>TryHackMe</b></a>
-&nbsp;•&nbsp;
-<a href="https://github.com/YousefE1bana?tab=repositories"><b>All Repositories</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/YousefE1bana?tab=repositories"><b>Repositories</b></a>
+</p>
 
-</div>
+<p align="center"><samp>BUILD // BREAK // DETECT // INVESTIGATE // VERIFY // IMPROVE</samp></p>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img" aria-labelledby="t d">
+<title id="t">USEF Control Surface</title><desc id="d">Primary routes to Yousef Osama's portfolio, projects, and contact links.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#020617"/><stop offset=".52" stop-color="#07111f"/><stop offset="1" stop-color="#081421"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".22" stop-color="#22d3ee"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset=".82" stop-color="#22c55e"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/></linearGradient>
+  <radialGradient id="glow" cx="50%" cy="45%" r="65%"><stop stop-color="#22d3ee" stop-opacity=".14"/><stop offset=".55" stop-color="#8b5cf6" stop-opacity=".05"/><stop offset="1" stop-color="#020617" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#38bdf8" stroke-opacity=".045"/><circle cx="6" cy="7" r="1" fill="#67e8f9" opacity=".1"/></pattern>
+  <filter id="g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .ey{font:800 11px 'Segoe UI',Arial,sans-serif;letter-spacing:4px;fill:#67e8f9}.ttl{font:900 38px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}.sub{font:600 14px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}
+    .meta{font:800 9px 'Segoe UI',Arial,sans-serif;letter-spacing:2px;fill:#67e8f9}.btn{font:900 18px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}.small{font:600 10px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}.term{font:800 11px Consolas,monospace;fill:#bbf7d0}
+  </style>
+</defs>
+<rect width="1100" height="320" rx="28" fill="url(#bg)"/><rect width="1100" height="320" rx="28" fill="url(#grid)"/>
+<rect x="14" y="14" width="1072" height="292" rx="22" fill="none" stroke="url(#edge)" stroke-width="2" stroke-dasharray="360 120"><animate attributeName="stroke-dashoffset" from="0" to="-480" dur="18s" repeatCount="indefinite"/></rect>
+<rect x="32" y="32" width="1036" height="256" rx="18" fill="url(#glow)"/>
+<text x="66" y="67" class="ey">START HERE // USEF SYSTEM</text><text x="66" y="109" class="ttl">CONTROL SURFACE</text><text x="66" y="137" class="sub">One profile. Three routes. Everything else branches from here.</text>
+<g transform="translate(760 52)"><rect width="266" height="74" rx="16" fill="#020817" stroke="#1e3a8a"/><text x="20" y="30" class="term">&gt; USEF SYSTEM ONLINE</text><text x="20" y="53" class="term">&gt; ROUTES: 03 ACTIVE</text></g>
+<path d="M112 204H988" stroke="url(#edge)" stroke-width="2.5" stroke-dasharray="40 18" filter="url(#g)"><animate attributeName="stroke-dashoffset" from="0" to="-116" dur="12s" repeatCount="indefinite"/></path>
+<g transform="translate(76 172)"><rect width="286" height="88" rx="18" fill="#020817" stroke="#22d3ee" stroke-width="1.6"/><circle cx="34" cy="44" r="12" fill="#22d3ee" filter="url(#g)"><animate attributeName="r" values="11;14;11" dur="7s" repeatCount="indefinite"/></circle><text x="62" y="31" class="meta">PUBLIC IDENTITY</text><text x="62" y="56" class="btn">Portfolio</text><text x="168" y="56" class="small">live site</text></g>
+<g transform="translate(407 172)"><rect width="286" height="88" rx="18" fill="#020817" stroke="#8b5cf6" stroke-width="1.6"/><circle cx="34" cy="44" r="12" fill="#8b5cf6" filter="url(#g)"><animate attributeName="r" values="11;14;11" dur="8s" begin="1s" repeatCount="indefinite"/></circle><text x="62" y="31" class="meta">BUILD NETWORK</text><text x="62" y="56" class="btn">Projects</text><text x="156" y="56" class="small">7 systems</text></g>
+<g transform="translate(738 172)"><rect width="286" height="88" rx="18" fill="#020817" stroke="#22c55e" stroke-width="1.6"/><circle cx="34" cy="44" r="12" fill="#22c55e" filter="url(#g)"><animate attributeName="r" values="11;14;11" dur="9s" begin="2s" repeatCount="indefinite"/></circle><text x="62" y="31" class="meta">CONTACT VECTOR</text><text x="62" y="56" class="btn">Connect</text><text x="156" y="56" class="small">LinkedIn / THM</text></g>
+</svg>
