@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
+<title id="t">USEF System Core</title><desc id="d">Defensive security, engineering, and offensive knowledge pillars.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
+<linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#334155"/><stop offset=".45" stop-color="#22d3ee"/><stop offset=".7" stop-color="#8b5cf6"/><stop offset="1" stop-color="#334155"/></linearGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#38bdf8" stroke-opacity=".045"/></pattern>
+<filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.head{font:800 11px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#67e8f9}.title{font:900 25px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}.sub{font:600 13px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}.item{font:600 14px 'Segoe UI',Arial,sans-serif;fill:#dbeafe}.tag{font:800 9px 'Segoe UI',Arial,sans-serif;letter-spacing:2px}</style>
+</defs>
+<rect width="1200" height="430" fill="url(#bg)"/><rect width="1200" height="430" fill="url(#grid)"/>
+<line x1="70" y1="54" x2="455" y2="54" stroke="url(#stroke)" stroke-width="2"/><line x1="745" y1="54" x2="1130" y2="54" stroke="url(#stroke)" stroke-width="2"/>
+<g transform="translate(600 54)" filter="url(#g)"><circle r="24" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-dasharray="20 9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="15s" repeatCount="indefinite"/></circle><circle r="8" fill="#22d3ee"><animate attributeName="r" values="7;10;7" dur="3.3s" repeatCount="indefinite"/></circle></g>
+<text x="600" y="102" text-anchor="middle" class="head">SYSTEM CORE</text><text x="600" y="126" text-anchor="middle" class="sub">how I think · what I build · why I test both sides</text>
+<g><rect x="60" y="160" width="340" height="220" rx="18" fill="#020617" fill-opacity=".7" stroke="url(#stroke)" stroke-width="1.6"/><rect x="430" y="160" width="340" height="220" rx="18" fill="#020617" fill-opacity=".7" stroke="url(#stroke)" stroke-width="1.6"/><rect x="800" y="160" width="340" height="220" rx="18" fill="#020617" fill-opacity=".7" stroke="url(#stroke)" stroke-width="1.6"/></g>
+<text x="90" y="197" class="tag" fill="#67e8f9">01 // DEFEND</text><text x="90" y="232" class="title">DEFENSIVE SECURITY</text>
+<circle cx="96" cy="268" r="3.5" fill="#22d3ee"/><text x="112" y="273" class="item">SOC &amp; detection engineering</text><circle cx="96" cy="300" r="3.5" fill="#22d3ee"/><text x="112" y="305" class="item">NDR &amp; incident investigation</text><circle cx="96" cy="332" r="3.5" fill="#22d3ee"/><text x="112" y="337" class="item">DFIR &amp; evidence handling</text><circle cx="96" cy="364" r="3.5" fill="#22d3ee"/><text x="112" y="369" class="item">Safe, explainable response</text>
+<text x="460" y="197" class="tag" fill="#c4b5fd">02 // BUILD</text><text x="460" y="232" class="title">ENGINEERING</text>
+<circle cx="466" cy="268" r="3.5" fill="#8b5cf6"/><text x="482" y="273" class="item">Secure software architecture</text><circle cx="466" cy="300" r="3.5" fill="#8b5cf6"/><text x="482" y="305" class="item">Linux / Rust systems tooling</text><circle cx="466" cy="332" r="3.5" fill="#8b5cf6"/><text x="482" y="337" class="item">TypeScript product systems</text><circle cx="466" cy="364" r="3.5" fill="#8b5cf6"/><text x="482" y="369" class="item">C++ / OpenGL graphics</text>
+<text x="830" y="197" class="tag" fill="#86efac">03 // BREAK TO LEARN</text><text x="830" y="232" class="title">OFFENSIVE KNOWLEDGE</text>
+<circle cx="836" cy="268" r="3.5" fill="#22c55e"/><text x="852" y="273" class="item">Web &amp; network pentesting</text><circle cx="836" cy="300" r="3.5" fill="#22c55e"/><text x="852" y="305" class="item">Privilege escalation</text><circle cx="836" cy="332" r="3.5" fill="#22c55e"/><text x="852" y="337" class="item">Adversary behavior</text><circle cx="836" cy="364" r="3.5" fill="#22c55e"/><text x="852" y="369" class="item">Offense informs defense</text>
+</svg>
