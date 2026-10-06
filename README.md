@@ -10,20 +10,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Cybersecurity+Engineering+Student;SOC+%2F+Defensive+Security;Security-minded+Software+Builder;Build+%E2%86%92+Break+%E2%86%92+Detect+%E2%86%92+Verify" alt="Typing intro">
 </a>
 
-<samp>
-I build security systems, tools and products where <b>evidence matters more than assumptions.</b>
-</samp>
+<p align="center"><samp>I build security systems, tools and products where <b>evidence matters more than assumptions.</b></samp></p>
 
 <br><br>
 
 <a href="https://yousefe1bana.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=firefoxbrowser&logoColor=22D3EE"></a>
 <a href="https://www.linkedin.com/in/yousefelbana"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA"></a>
 <a href="https://tryhackme.com/p/ELbanna"><img src="https://img.shields.io/badge/TRYHACKME-0B1220?style=for-the-badge&logo=tryhackme&logoColor=EF4444"></a>
-<img src="https://komarev.com/ghpvc/?username=YousefE1bana&style=for-the-badge&color=0B1220&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=YousefE1bana.YousefE1bana&left_text=PROFILE%20VIEWS&left_color=0B1220&right_color=0E7490" alt="Profile views">
 
 </div>
-
-<img src="./assets/divider-cyber.svg" width="100%" alt="">
 
 <img src="./assets/divider-cyber.svg" width="100%" alt="">
 
@@ -150,12 +146,11 @@ Capability-aware Linux terminal control center for supported MSI laptops, with s
 
 <h2 align="center">ARSENAL // TOOLS I ACTUALLY USE</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,ts,react,cpp,linux,docker,postgres,supabase,git,github,vite&perline=12" alt="Technology stack">
+</p>
+
 <div align="center">
-
-`Python` · `Rust` · `TypeScript` · `React` · `C++` · `Linux`  
-`Docker` · `PostgreSQL` · `Supabase` · `Git` · `Vite` · `OpenGL`
-
-<br>
 
 `SOC Operations` · `Detection Engineering` · `NDR` · `Incident Investigation`  
 `Digital Forensics` · `Penetration Testing` · `Secure Architecture` · `Windows / Linux Security`
