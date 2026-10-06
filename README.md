@@ -25,21 +25,6 @@ I build security systems, tools and products where <b>evidence matters more than
 
 <img src="./assets/divider-cyber.svg" width="100%" alt="">
 
-<p align="center">
-  <img src="./assets/system-core.svg" width="94%" alt="Yousef security and engineering operating modes">
-</p>
-
-<div align="center">
-
-### `WHOAMI`
-
-Cybersecurity Engineering student targeting **SOC / defensive-security roles**.  
-I use offensive training to understand attacker behavior, then turn that understanding into **detections, investigations, safer response paths and better software**.
-
-**Cairo, Egypt · Building across Security, Linux, Healthcare, Web & Graphics**
-
-</div>
-
 <img src="./assets/divider-cyber.svg" width="100%" alt="">
 
 <h2 align="center">PROJECT // FIELD WORK</h2>
@@ -54,7 +39,7 @@ I use offensive training to understand attacker behavior, then turn that underst
 <img src="https://raw.githubusercontent.com/YousefE1bana/Net-Shield/main/docs/assets/linux-acceptance/live-overview.png" width="100%" alt="NetShield live network overview">
 </a>
 
-### 🔵 [NetShield](https://github.com/YousefE1bana/Net-Shield)
+### [NetShield](https://github.com/YousefE1bana/Net-Shield)
 **Network Detection & Response**
 
 Home-SOC NDR that turns network activity into explainable alerts, investigations, evidence and bounded manual response.
@@ -68,7 +53,7 @@ Home-SOC NDR that turns network activity into explainable alerts, investigations
 <img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/shifaa-architecture.webp" width="100%" alt="SHIFAA proposed architecture">
 </a>
 
-### 🟢 [SHIFAA](https://github.com/YousefE1bana/shifaa-project)
+### [SHIFAA](https://github.com/YousefE1bana/shifaa-project)
 **Egyptian Digital Health Platform**
 
 Graduation project connecting patients, clinics, pharmacies, hospitals and laboratories.
@@ -87,12 +72,12 @@ Graduation project connecting patients, clinics, pharmacies, hospitals and labor
 <img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/projects/e-banking.webp" width="100%" alt="NeuralGuard E-Banking Security System">
 </a>
 
-### 🟣 NeuralGuard
+### NeuralGuard
 **E-Banking Security System**
 
 University banking-security prototype combining application security, transaction monitoring and fraud-model evaluation.
 
-**🥇 1st Place — ECU Project Day**
+**1st Place — ECU Project Day**
 
 <sub>`Python` · `React` · `XGBoost` · `Kafka` · `Spark`</sub>
 
@@ -103,7 +88,7 @@ University banking-security prototype combining application security, transactio
 <img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/projects/solar-odyssey.webp" width="100%" alt="Solar Odyssey">
 </a>
 
-### 🌌 [Solar Odyssey](https://github.com/YousefE1bana/solar-odyssey)
+### [Solar Odyssey](https://github.com/YousefE1bana/solar-odyssey)
 **Scientific Exploration Sandbox**
 
 31 celestial bodies, free-flight exploration, scientific layers, photo mode and a modern rendering pipeline.
@@ -120,7 +105,7 @@ University banking-security prototype combining application security, transactio
 <img src="https://raw.githubusercontent.com/YousefE1bana/al-tayyibat/main/docs/readme/hero.webp" width="100%" alt="Al-Tayyibat Arabic food reference">
 </a>
 
-### 🟡 [Al-Tayyibat](https://github.com/YousefE1bana/al-tayyibat)
+### [Al-Tayyibat](https://github.com/YousefE1bana/al-tayyibat)
 **Arabic-first RTL PWA**
 
 Interactive food-reference system covering **385 food entries**, search, ingredient checking, recipes, local favorites and offline use.
@@ -134,7 +119,7 @@ Interactive food-reference system covering **385 food entries**, search, ingredi
 <img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/docs/images/after-hours-hero.webp" width="100%" alt="Yousef portfolio After Hours experience">
 </a>
 
-### 🩷 [Portfolio](https://github.com/YousefE1bana/my-portfolio)
+### [Portfolio](https://github.com/YousefE1bana/my-portfolio)
 **Three dimensions, one person**
 
 A design-forward cybersecurity portfolio with professional Dark / Light experiences and a personal **After Hours** world.
@@ -153,7 +138,7 @@ A design-forward cybersecurity portfolio with professional Dark / Light experien
 
 <div align="center">
 
-### 🟠 [MEC — MSI EC Control Center](https://github.com/YousefE1bana/msi-ec-tui)
+### [MEC — MSI EC Control Center](https://github.com/YousefE1bana/msi-ec-tui)
 
 Capability-aware Linux terminal control center for supported MSI laptops, with safe writes, hardware readback and transactional profiles.
 
@@ -165,14 +150,15 @@ Capability-aware Linux terminal control center for supported MSI laptops, with s
 
 <h2 align="center">ARSENAL // TOOLS I ACTUALLY USE</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,ts,react,cpp,linux,docker,postgres,supabase,git,github,vite&perline=12" alt="Technology stack">
-</p>
-
 <div align="center">
 
-`SOC Operations` · `Detection Engineering` · `NDR` · `Incident Investigation` · `Digital Forensics`  
-`Penetration Testing` · `Secure Architecture` · `Windows Security` · `Linux Security`
+`Python` · `Rust` · `TypeScript` · `React` · `C++` · `Linux`  
+`Docker` · `PostgreSQL` · `Supabase` · `Git` · `Vite` · `OpenGL`
+
+<br>
+
+`SOC Operations` · `Detection Engineering` · `NDR` · `Incident Investigation`  
+`Digital Forensics` · `Penetration Testing` · `Secure Architecture` · `Windows / Linux Security`
 
 </div>
 
@@ -182,10 +168,10 @@ Capability-aware Linux terminal control center for supported MSI laptops, with s
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>🥇</h3><b>1st Place</b><br><sub>HACKARENA-ECU<br>Cyber Security Competition</sub></td>
-<td align="center" width="25%"><h3>🥇</h3><b>1st Place</b><br><sub>ECU Project Day<br>NeuralGuard</sub></td>
-<td align="center" width="25%"><h3>🏅</h3><b>Honorable Mention</b><br><sub>ICPC ECPC<br>Qualifications</sub></td>
-<td align="center" width="25%"><h3>⚡</h3><b>Contribution</b><br><sub>Microsoft Student Clubs<br>ECU</sub></td>
+<td align="center" width="25%"><samp>01</samp><br><b>1st Place</b><br><sub>HACKARENA-ECU<br>Cyber Security Competition</sub></td>
+<td align="center" width="25%"><samp>02</samp><br><b>1st Place</b><br><sub>ECU Project Day<br>NeuralGuard</sub></td>
+<td align="center" width="25%"><samp>03</samp><br><b>Honorable Mention</b><br><sub>ICPC ECPC<br>Qualifications</sub></td>
+<td align="center" width="25%"><samp>04</samp><br><b>Contribution</b><br><sub>Microsoft Student Clubs<br>ECU</sub></td>
 </tr>
 </table>
 
@@ -198,14 +184,7 @@ Capability-aware Linux terminal control center for supported MSI laptops, with s
   <img width="49%" src="https://streak-stats.demolab.com?user=YousefE1bana&theme=tokyonight&hide_border=true" alt="Yousef GitHub streak">
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefE1bana&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YousefE1bana&theme=tokyonight&utcOffset=3" alt="Productive time">
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YousefE1bana&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="GitHub contribution activity graph">
-</p>
+<p align="center"><sub>GitHub already shows the native contribution graph below the profile, so I keep this section compact instead of duplicating it with an unreliable external graph.</sub></p>
 
 <img src="./assets/divider-cyber.svg" width="100%" alt="">
 
