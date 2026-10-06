@@ -77,7 +77,7 @@ Graduation project connecting patients, clinics, pharmacies, hospitals and labor
 
 University banking-security prototype combining application security, transaction monitoring and fraud-model evaluation.
 
-**🥇 1st Place — ECU Project Day**
+**1st Place — ECU Project Day**
 
 <sub>`Python` · `React` · `XGBoost` · `Kafka` · `Spark`</sub>
 
