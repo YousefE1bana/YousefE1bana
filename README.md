@@ -195,7 +195,7 @@ Capability-aware Linux terminal control center for supported MSI laptops, with s
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YousefE1bana&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Yousef GitHub stats">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YousefE1bana&theme=tokyonight&hide_border=true" alt="Yousef GitHub streak">
+  <img width="49%" src="https://streak-stats.demolab.com?user=YousefE1bana&theme=tokyonight&hide_border=true" alt="Yousef GitHub streak">
 </p>
 
 <p align="center">
