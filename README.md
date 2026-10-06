@@ -1,8 +1,12 @@
 <div align="center">
 
-# Yousef Osama
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
+  <img alt="Yousef Osama — Cybersecurity Engineering, Defensive Security and security-minded software" src="./assets/profile-hero-dark.svg" width="100%">
+</picture>
 
-### Cybersecurity Engineering · Defensive Security · Security-minded Software
+<br>
 
 I build systems that **observe, explain, protect and ship** — from network detection and Linux tooling to healthcare platforms, scientific graphics and Arabic-first web products.
 
