@@ -27,6 +27,57 @@ I'm a Cybersecurity Engineering student focused on **SOC / defensive security** 
 - **Engineer products:** TypeScript/React platforms, Rust/Linux tooling, Python security systems and C++/OpenGL graphics.
 - **Lead:** Product Owner, Team Lead and Architecture Lead for **SHIFAA**, my graduation project.
 
+## Project evidence
+
+Real screenshots and project artifacts — not mock project cards.
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/YousefE1bana/Net-Shield">
+<img src="https://raw.githubusercontent.com/YousefE1bana/Net-Shield/main/docs/assets/linux-acceptance/live-overview.png" alt="NetShield live network overview" width="100%">
+</a>
+<br><strong>NetShield</strong><br><sub>Live network visibility and NDR operations</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/YousefE1bana/solar-odyssey">
+<img src="https://github.com/YousefE1bana/solar-odyssey/releases/download/v1.1.0/main-menu.png" alt="Solar Odyssey rendered Earth main menu" width="100%">
+</a>
+<br><strong>Solar Odyssey</strong><br><sub>C++ / OpenGL scientific exploration sandbox</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://yousefe1bana.github.io/al-tayyibat/">
+<img src="https://raw.githubusercontent.com/YousefE1bana/al-tayyibat/main/docs/readme/hero.webp" alt="Al-Tayyibat Arabic food reference interface" width="100%">
+</a>
+<br><strong>Al-Tayyibat</strong><br><sub>Arabic-first RTL PWA · 385 food entries</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://yousefe1bana.github.io/my-portfolio/">
+<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/docs/images/three-experiences.webp" alt="Yousef portfolio dark light and after hours experiences" width="100%">
+</a>
+<br><strong>Portfolio</strong><br><sub>Dark · Light · After Hours</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/YousefE1bana/shifaa-project">
+<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/shifaa-architecture.webp" alt="SHIFAA proposed architecture diagram" width="100%">
+</a>
+<br><strong>SHIFAA</strong><br><sub>Graduation project · proposed architecture</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://yousefe1bana.github.io/my-portfolio/#projects">
+<img src="https://raw.githubusercontent.com/YousefE1bana/my-portfolio/main/public/images/projects/e-banking.webp" alt="NeuralGuard E-Banking Security System interface" width="100%">
+</a>
+<br><strong>NeuralGuard</strong><br><sub>1st Place · ECU Project Day</sub>
+</td>
+</tr>
+</table>
+
+> **MEC** is terminal-first by design; its full feature and release record is linked in the project workshop below.
+
 ## Project workshop
 
 <table>
