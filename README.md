@@ -112,7 +112,7 @@
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://github.com/YousefE1bana/msi-ec-tui">
-<img src="./assets/mec-terminal.svg" width="100%" alt="MEC MSI EC Control Center terminal interface">
+<img src="https://raw.githubusercontent.com/YousefE1bana/msi-ec-tui/main/docs/assets/screenshots/performance-120x35.png" width="100%" alt="MEC MSI EC Control Center performance screen captured on a physical GF63 Thin 11UC">
 </a>
 <br><b>MEC — MSI EC Control Center</b><br>
 <sub>Rust · Linux sysfs · verified writes · rollback</sub>
